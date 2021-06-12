@@ -1,5 +1,5 @@
-# What does this project do? 
-### A music site where you can make a playlist that fits the situation (ex, per singers, when study, when workout etc) with the music you want, and share and recommend with many users.
+What does this project do? 
+## A music site where you can make a playlist that fits the situation (ex, per singers, when study, when workout etc) with the music you want, and share and recommend with many users.
 -----------------------------------
 # Why is this project useful? 
 ### There are various music sites in internet, but these are not easy to use and access. So I make this music server is very easy to use and be able to comfortable listen and add music.
