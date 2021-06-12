@@ -6,10 +6,13 @@
 -----------------------------------
 # How do I get started?
 > $ sudo apt-get update
+
 > $ sudo apt-get install nginx
+
 > $ sudo service nginx start
+
 > cd /var/www/html
-### there is a index.html
+### add index.html on there.
 ### Type ip of raspberrypi on internet
 -----------------------------------
 # Where can I get more help, if I need it? 
